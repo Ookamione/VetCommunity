@@ -1,0 +1,2 @@
+rootProject.name = "ComuunityVet01"
+include ':app'
